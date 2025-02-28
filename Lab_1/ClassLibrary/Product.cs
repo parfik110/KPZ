@@ -10,9 +10,9 @@ namespace ClassLibrary
     {
         public string Name { get; private set; }
         public Money Price { get; private set; }
-        public string Category { get; private set; }
+        public Category Category { get; private set; }
 
-        public Product(string name, Money price, string category)
+        public Product(string name, Money price, Category category)
         {
             Name = name;
             Price = price;

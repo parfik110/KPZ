@@ -9,3 +9,14 @@ C:\Users\ADMIN\Desktop\University\2 course\Pract\Lab_1\ClassLibrary\obj\Debug\ne
 C:\Users\ADMIN\Desktop\University\2 course\Pract\Lab_1\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
 C:\Users\ADMIN\Desktop\University\2 course\Pract\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
 C:\Users\ADMIN\Desktop\University\2 course\Pract\Lab_1\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\bin\Debug\net7.0\ClassLibrary.deps.json
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\bin\Debug\net7.0\ClassLibrary.dll
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\bin\Debug\net7.0\ClassLibrary.pdb
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.dll
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
+C:\Users\ADMIN\Desktop\University\2\KPZ\Lab_1\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\University\\2 course\\Pract\\Lab_1\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_1\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\University\\2 course\\Pract\\Lab_1\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_1\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2 course\\Pract\\Lab_1\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_1\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2 course\\Pract\\Lab_1\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_1\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2 course\\Pract\\Lab_1\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_1\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

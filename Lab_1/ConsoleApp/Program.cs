@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using ClassLibrary;
 
 class Program
@@ -11,9 +10,12 @@ class Program
         Money money1 = new(20, 75, "USD");
         Money money2 = new(5, 30, "USD");
 
-        Product product = new("Laptop", money, "Electronics");
-        Product product1 = new("Phone", money1, "Electronics");
-        Product product2 = new("Headphones", money2, "Accessories");
+        Category electronics = new("Electronics", "Electronic devices");
+        Category accessories = new("Accessories", "Gadgets and accessories");
+
+        Product product = new("Laptop", money, electronics);
+        Product product1 = new("Phone", money1, electronics);
+        Product product2 = new("Headphones", money2, accessories);
 
         Reporting.RegisterIncome(warehouse, product, 5);
         Reporting.RegisterIncome(warehouse, product1, 10);
