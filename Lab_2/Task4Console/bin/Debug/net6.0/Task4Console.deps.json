@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task4Console/1.0.0": {
+        "dependencies": {
+          "Task4Library": "1.0.0"
+        },
+        "runtime": {
+          "Task4Console.dll": {}
+        }
+      },
+      "Task4Library/1.0.0": {
+        "runtime": {
+          "Task4Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task4Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task4Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

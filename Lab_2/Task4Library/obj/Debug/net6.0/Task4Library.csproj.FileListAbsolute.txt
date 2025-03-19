@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\bin\Debug\net6.0\Task4Library.deps.json
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\bin\Debug\net6.0\Task4Library.dll
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\bin\Debug\net6.0\Task4Library.pdb
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\Task4Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\Task4Library.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\Task4Library.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\Task4Library.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\Task4Library.dll
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\refint\Task4Library.dll
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\Task4Library.pdb
+C:\Users\ADMIN\source\repos\Lab_2\Task4Library\obj\Debug\net6.0\ref\Task4Library.dll

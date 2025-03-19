@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\bin\Debug\net6.0\FactoryLibrary.deps.json
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\bin\Debug\net6.0\FactoryLibrary.dll
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\bin\Debug\net6.0\FactoryLibrary.pdb
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\FactoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\FactoryLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\FactoryLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\FactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\FactoryLibrary.dll
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\refint\FactoryLibrary.dll
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\FactoryLibrary.pdb
+C:\Users\ADMIN\source\repos\Lab_2\FactoryLibrary\obj\Debug\net6.0\ref\FactoryLibrary.dll

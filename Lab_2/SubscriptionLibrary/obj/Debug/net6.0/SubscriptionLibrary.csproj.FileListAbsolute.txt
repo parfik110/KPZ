@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\bin\Debug\net6.0\SubscriptionLibrary.deps.json
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\bin\Debug\net6.0\SubscriptionLibrary.dll
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\bin\Debug\net6.0\SubscriptionLibrary.pdb
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\SubscriptionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\SubscriptionLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\SubscriptionLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\SubscriptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\SubscriptionLibrary.dll
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\refint\SubscriptionLibrary.dll
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\SubscriptionLibrary.pdb
+C:\Users\ADMIN\source\repos\Lab_2\SubscriptionLibrary\obj\Debug\net6.0\ref\SubscriptionLibrary.dll

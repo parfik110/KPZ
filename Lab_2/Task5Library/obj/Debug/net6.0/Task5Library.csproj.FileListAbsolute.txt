@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\bin\Debug\net6.0\Task5Library.deps.json
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\bin\Debug\net6.0\Task5Library.dll
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\bin\Debug\net6.0\Task5Library.pdb
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\Task5Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\Task5Library.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\Task5Library.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\Task5Library.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\Task5Library.dll
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\refint\Task5Library.dll
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\Task5Library.pdb
+C:\Users\ADMIN\source\repos\Lab_2\Task5Library\obj\Debug\net6.0\ref\Task5Library.dll
