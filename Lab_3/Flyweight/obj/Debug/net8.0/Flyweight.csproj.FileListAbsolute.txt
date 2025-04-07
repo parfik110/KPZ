@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\bin\Debug\net8.0\Flyweight.deps.json
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\bin\Debug\net8.0\Flyweight.dll
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\bin\Debug\net8.0\Flyweight.pdb
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.sourcelink.json
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.dll
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\refint\Flyweight.dll
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\Flyweight.pdb
+C:\Users\ADMIN\source\repos\Lab_3\Flyweight\obj\Debug\net8.0\ref\Flyweight.dll

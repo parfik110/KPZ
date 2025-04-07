@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\bin\Debug\net8.0\Adapter.deps.json
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\bin\Debug\net8.0\Adapter.dll
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\bin\Debug\net8.0\Adapter.pdb
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.dll
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\Adapter.pdb
+C:\Users\ADMIN\source\repos\Lab_3\Adapter\obj\Debug\net8.0\ref\Adapter.dll
