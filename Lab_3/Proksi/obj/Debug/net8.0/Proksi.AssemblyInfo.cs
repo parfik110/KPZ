@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proksi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+323a7fe2a4cd669bbe94517fd5c6692065a965fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47968cfc693d87309ee5f0b5ba34c22566884e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proksi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proksi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

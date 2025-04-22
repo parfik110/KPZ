@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\Proksi.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\Proksi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\Proksi.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\Proksi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\Proksi.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\Proksi.csproj",
         "projectName": "Proksi",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\Proksi.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\Proksi.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

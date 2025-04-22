@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Decorator\\Decorator.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Decorator\\Decorator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Decorator\\Decorator.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Decorator\\Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Decorator\\Decorator.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Decorator\\Decorator.csproj",
         "projectName": "Decorator",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Decorator\\Decorator.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Decorator\\Decorator.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Decorator\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

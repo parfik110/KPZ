@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B07E379D-D267-4D47-9FC3-35F12522633C}|ConsoleApp_Task5\\ConsoleApp_Task5.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\consoleapp_task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07E379D-D267-4D47-9FC3-35F12522633C}|ConsoleApp_Task5\\ConsoleApp_Task5.csproj|solutionrelative:consoleapp_task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\tagclosetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\tagclosetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightNode.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightNode.cs",
+              "RelativeToolTip": "Composite\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:19:39.407Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\EventManager.cs",
+              "RelativeDocumentMoniker": "Composite\\EventManager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\EventManager.cs",
+              "RelativeToolTip": "Composite\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:22:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:19:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagCloseType.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\TagCloseType.cs",
+              "RelativeDocumentMoniker": "Composite\\TagCloseType.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\TagCloseType.cs",
+              "RelativeToolTip": "Composite\\TagCloseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:19:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightTextNode.cs",
+              "RelativeToolTip": "Composite\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:19:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
+              "RelativeToolTip": "Composite\\LightElementNode.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:19:34.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayType.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DisplayType.cs",
+              "RelativeDocumentMoniker": "Composite\\DisplayType.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DisplayType.cs",
+              "RelativeToolTip": "Composite\\DisplayType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:19:21.687Z",
+              "EditorCaption": ""
             }
           ]
         }
