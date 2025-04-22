@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\bin\Debug\net8.0\Mediator.deps.json
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\bin\Debug\net8.0\Mediator.dll
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\bin\Debug\net8.0\Mediator.pdb
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.sourcelink.json
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.dll
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\refint\Mediator.dll
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\Mediator.pdb
+C:\Users\ADMIN\source\repos\Lab_4\Mediator\obj\Debug\net8.0\ref\Mediator.dll

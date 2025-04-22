@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Task_1\Task_1.csproj", "{CCD9C85D-98F8-4548-9264-F902D6692EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers", "Handlers\Handlers.csproj", "{B2D1BC66-1D21-4079-B6CF-7B55A39157C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{825857C5-F199-4C29-B759-343770279F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{46CD39CC-13E3-454B-9E73-6465DAB6AC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_5", "Task_5\Task_5.csproj", "{724BF13D-081E-402C-B5AD-DA44B4D73DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{0B0D258D-87BB-4A95-B821-07C37107F994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD9C85D-98F8-4548-9264-F902D6692EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD9C85D-98F8-4548-9264-F902D6692EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD9C85D-98F8-4548-9264-F902D6692EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD9C85D-98F8-4548-9264-F902D6692EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D1BC66-1D21-4079-B6CF-7B55A39157C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D1BC66-1D21-4079-B6CF-7B55A39157C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D1BC66-1D21-4079-B6CF-7B55A39157C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D1BC66-1D21-4079-B6CF-7B55A39157C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825857C5-F199-4C29-B759-343770279F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825857C5-F199-4C29-B759-343770279F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825857C5-F199-4C29-B759-343770279F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825857C5-F199-4C29-B759-343770279F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CD39CC-13E3-454B-9E73-6465DAB6AC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CD39CC-13E3-454B-9E73-6465DAB6AC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CD39CC-13E3-454B-9E73-6465DAB6AC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CD39CC-13E3-454B-9E73-6465DAB6AC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724BF13D-081E-402C-B5AD-DA44B4D73DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724BF13D-081E-402C-B5AD-DA44B4D73DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724BF13D-081E-402C-B5AD-DA44B4D73DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724BF13D-081E-402C-B5AD-DA44B4D73DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0D258D-87BB-4A95-B821-07C37107F994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0D258D-87BB-4A95-B821-07C37107F994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0D258D-87BB-4A95-B821-07C37107F994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0D258D-87BB-4A95-B821-07C37107F994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27AAA274-07ED-4669-BB1D-522D72FF78D4}
+	EndGlobalSection
+EndGlobal
