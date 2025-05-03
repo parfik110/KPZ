@@ -11,8 +11,9 @@ namespace Composite
         public string TagName { get; }
         public DisplayType Display { get; }
         public TagCloseType CloseType { get; }
-        public List<string> CssClasses { get; } = new List<string>();
-        public List<LightNode> Children { get; } = new List<LightNode>();
+        public List<string> CssClasses { get; } = new();
+        public List<LightNode> Children { get; } = new();
+        private readonly EventManager _eventManager = new();
 
         public LightElementNode(string tagName, DisplayType display, TagCloseType closeType)
         {
@@ -31,11 +32,21 @@ namespace Composite
             Children.Add(node);
         }
 
+        public void SubscribeEvent(string eventType, Action handler)
+        {
+            _eventManager.Subscribe(eventType, handler);
+        }
+
+        public void TriggerEvent(string eventType)
+        {
+            _eventManager.Trigger(eventType);
+        }
+
         public override string InnerHTML
         {
             get
             {
-                StringBuilder sb = new StringBuilder();
+                var sb = new StringBuilder();
                 foreach (var child in Children)
                     sb.Append(child.OuterHTML);
                 return sb.ToString();
@@ -55,4 +66,5 @@ namespace Composite
             }
         }
     }
+
 }

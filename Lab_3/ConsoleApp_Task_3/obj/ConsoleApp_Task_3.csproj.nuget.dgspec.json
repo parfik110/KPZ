@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Bridge\\Bridge.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Bridge\\Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Bridge\\Bridge.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Bridge\\Bridge.csproj",
         "projectName": "Bridge",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Bridge\\Bridge.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Bridge\\Bridge.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Bridge\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj",
         "projectName": "ConsoleApp_Task_3",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task_3\\ConsoleApp_Task_3.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task_3\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Bridge\\Bridge.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Bridge\\Bridge.csproj"
+              "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Bridge\\Bridge.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Bridge\\Bridge.csproj"
               }
             }
           }

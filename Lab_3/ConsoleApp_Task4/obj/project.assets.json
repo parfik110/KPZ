@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task4\\ConsoleApp_Task4.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task4\\ConsoleApp_Task4.csproj",
       "projectName": "ConsoleApp_Task4",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task4\\ConsoleApp_Task4.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task4\\ConsoleApp_Task4.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\ConsoleApp_Task4\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\Proksi.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Lab_3\\Proksi\\Proksi.csproj"
+            "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\Proksi.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Proksi\\Proksi.csproj"
             }
           }
         }

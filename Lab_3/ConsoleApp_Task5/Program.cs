@@ -6,10 +6,7 @@ namespace ConsoleApp_Task5
     {
         static void Main(string[] args)
         {
-            // <ul class="menu">
-            //   <li>Item 1</li>
-            //   <li>Item 2</li>
-            // </ul>
+            Console.WriteLine("=== LightHTML output ===");
 
             var ul = new LightElementNode("ul", DisplayType.Block, TagCloseType.Pair);
             ul.AddClass("menu");
@@ -23,8 +20,26 @@ namespace ConsoleApp_Task5
             ul.AddChild(li1);
             ul.AddChild(li2);
 
-            Console.WriteLine("=== LightHTML output ===");
             Console.WriteLine(ul.OuterHTML);
+
+            Console.WriteLine("=== Image output with Strategy ===");
+
+            var fileImg = new LightImageNode("images/local-photo.jpg", new FileSystemImageLoadingStrategy());
+            var netImg = new LightImageNode("http://example.com/photo.jpg", new NetworkImageLoadingStrategy());
+
+            Console.WriteLine(fileImg.OuterHTML);
+            Console.WriteLine(netImg.OuterHTML);
+
+
+            Console.WriteLine("\n=== Tree traversal with Iterator ===\n");
+            var iterator = new DepthFirstIterator(ul);
+            while (iterator.HasNext())
+            {
+                var node = iterator.Next();
+                Console.WriteLine(node.OuterHTML);
+            }
+
+
         }
     }
 }
