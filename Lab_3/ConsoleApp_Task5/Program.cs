@@ -29,6 +29,17 @@ namespace ConsoleApp_Task5
 
             Console.WriteLine(fileImg.OuterHTML);
             Console.WriteLine(netImg.OuterHTML);
+
+
+            Console.WriteLine("\n=== Tree traversal with Iterator ===\n");
+            var iterator = new DepthFirstIterator(ul);
+            while (iterator.HasNext())
+            {
+                var node = iterator.Next();
+                Console.WriteLine(node.OuterHTML);
+            }
+
+
         }
     }
 }
