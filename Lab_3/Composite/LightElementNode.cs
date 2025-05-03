@@ -107,5 +107,14 @@ namespace Composite
                     return $"<{TagName}{classAttr}{styleAttr}>{InnerHTML}</{TagName}>";
             }
         }
+
+        public override void Accept(INodeVisitor visitor)
+        {
+            visitor.VisitElement(this);
+            foreach (var child in Children)
+            {
+                child.Accept(visitor);
+            }
+        }
     }
 }

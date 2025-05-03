@@ -78,6 +78,12 @@ namespace ConsoleApp_Task5
             Console.WriteLine(header.OuterHTML);
             header.Remove();
 
+
+            Console.WriteLine("\n=== Visitor Pattern Demo ===\n");
+
+            INodeVisitor visitor = new HtmlPrinterVisitor();
+            ul.Accept(visitor);  // обходить дерево з коренем ul і викликає відповідні Visit-методи
+
         }
     }
 }

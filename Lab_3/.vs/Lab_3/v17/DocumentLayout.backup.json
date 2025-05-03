@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{B07E379D-D267-4D47-9FC3-35F12522633C}|ConsoleApp_Task5\\ConsoleApp_Task5.csproj|solutionrelative:consoleapp_task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\htmlprintervisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\htmlprintervisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\defaultlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\defaultlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,40 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
-              "RelativeToolTip": "Composite\\LightElementNode.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAA5wG8AAAAAAAAAAAAAAA==",
+              "Title": "HtmlPrinterVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\HtmlPrinterVisitor.cs",
+              "RelativeDocumentMoniker": "Composite\\HtmlPrinterVisitor.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\HtmlPrinterVisitor.cs",
+              "RelativeToolTip": "Composite\\HtmlPrinterVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:33:21.667Z",
+              "WhenOpened": "2025-05-03T14:13:36.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DefaultLifecycleHooks.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DefaultLifecycleHooks.cs",
-              "RelativeDocumentMoniker": "Composite\\DefaultLifecycleHooks.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DefaultLifecycleHooks.cs",
-              "RelativeToolTip": "Composite\\DefaultLifecycleHooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
+              "RelativeToolTip": "Composite\\LightElementNode.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAYwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:33:02.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LightLifecycleHooks.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightLifecycleHooks.cs",
-              "RelativeDocumentMoniker": "Composite\\LightLifecycleHooks.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightLifecycleHooks.cs",
-              "RelativeToolTip": "Composite\\LightLifecycleHooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:32:46.77Z",
+              "WhenOpened": "2025-05-03T13:33:21.667Z",
               "EditorCaption": ""
             },
             {
@@ -79,7 +62,7 @@
               "RelativeDocumentMoniker": "ConsoleApp_Task5\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs",
               "RelativeToolTip": "ConsoleApp_Task5\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T12:19:53.974Z",
               "EditorCaption": ""

@@ -27,5 +27,11 @@ namespace Composite
                 return $"<img src=\"{Source}\" alt=\"{result}\" />";
             }
         }
+
+        public override void Accept(INodeVisitor visitor)
+        {
+            visitor.VisitImage(this);
+        }
+
     }
 }
