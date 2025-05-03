@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Composite
 {
@@ -14,6 +13,9 @@ namespace Composite
         public List<string> CssClasses { get; } = new();
         public List<LightNode> Children { get; } = new();
         private readonly EventManager _eventManager = new();
+        public Dictionary<string, string> Styles { get; } = new();
+
+        private IElementState _state = new VisibleState();
 
         public LightElementNode(string tagName, DisplayType display, TagCloseType closeType)
         {
@@ -24,12 +26,29 @@ namespace Composite
 
         public void AddClass(string className)
         {
-            CssClasses.Add(className);
+            if (!CssClasses.Contains(className))
+                CssClasses.Add(className);
+        }
+
+        public void RemoveClass(string className)
+        {
+            CssClasses.Remove(className);
         }
 
         public void AddChild(LightNode node)
         {
             Children.Add(node);
+        }
+
+        public void AddStyle(string key, string value)
+        {
+            Styles[key] = value;
+        }
+
+        private string RenderStyle()
+        {
+            if (Styles.Count == 0) return "";
+            return $" style=\"{string.Join("; ", Styles.Select(s => $"{s.Key}: {s.Value}"))}\"";
         }
 
         public void SubscribeEvent(string eventType, Action handler)
@@ -41,10 +60,13 @@ namespace Composite
         {
             _eventManager.Trigger(eventType);
         }
-        public void RemoveClass(string className)
+
+        public void SetState(IElementState newState)
         {
-            CssClasses.Remove(className);
+            _state = newState;
+            _state.ApplyState(this);
         }
+
         public override string InnerHTML
         {
             get
@@ -61,13 +83,13 @@ namespace Composite
             get
             {
                 string classAttr = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
+                string styleAttr = RenderStyle();
 
                 if (CloseType == TagCloseType.Single)
-                    return $"<{TagName}{classAttr}/>";
+                    return $"<{TagName}{classAttr}{styleAttr}/>";
                 else
-                    return $"<{TagName}{classAttr}>{InnerHTML}</{TagName}>";
+                    return $"<{TagName}{classAttr}{styleAttr}>{InnerHTML}</{TagName}>";
             }
         }
     }
-
 }

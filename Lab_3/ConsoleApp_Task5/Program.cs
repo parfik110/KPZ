@@ -56,6 +56,17 @@ namespace ConsoleApp_Task5
             Console.WriteLine(div.OuterHTML);  // <div class="red bold"></div>
 
 
+
+            Console.WriteLine("\n=== State Pattern Demo ===\n");
+            var section = new LightElementNode("section", DisplayType.Block, TagCloseType.Pair);
+            section.AddChild(new LightTextNode("This is content"));
+
+            section.SetState(new HiddenState());
+            Console.WriteLine(section.OuterHTML);  // display: none
+
+            section.SetState(new VisibleState());
+            Console.WriteLine(section.OuterHTML);  // display: block
+
         }
     }
 }
