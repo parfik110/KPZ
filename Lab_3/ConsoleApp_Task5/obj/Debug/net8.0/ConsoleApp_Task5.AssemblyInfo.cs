@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp_Task5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84b97e7a8a9d67fbc96dc49e60c0948895498e7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1051b2b95f8143a2b862fc2defc50a8a809b2b43")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp_Task5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp_Task5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

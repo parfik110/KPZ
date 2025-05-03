@@ -41,7 +41,10 @@ namespace Composite
         {
             _eventManager.Trigger(eventType);
         }
-
+        public void RemoveClass(string className)
+        {
+            CssClasses.Remove(className);
+        }
         public override string InnerHTML
         {
             get
