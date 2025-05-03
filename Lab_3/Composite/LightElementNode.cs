@@ -16,12 +16,20 @@ namespace Composite
         public Dictionary<string, string> Styles { get; } = new();
 
         private IElementState _state = new VisibleState();
+        private LightLifecycleHooks _lifecycleHooks = new DefaultLifecycleHooks();
 
         public LightElementNode(string tagName, DisplayType display, TagCloseType closeType)
         {
             TagName = tagName;
             Display = display;
             CloseType = closeType;
+
+            _lifecycleHooks.OnCreated(this);
+        }
+
+        public void SetLifecycleHooks(LightLifecycleHooks hooks)
+        {
+            _lifecycleHooks = hooks;
         }
 
         public void AddClass(string className)
@@ -38,6 +46,7 @@ namespace Composite
         public void AddChild(LightNode node)
         {
             Children.Add(node);
+            _lifecycleHooks.OnInserted(this);
         }
 
         public void AddStyle(string key, string value)
@@ -67,6 +76,11 @@ namespace Composite
             _state.ApplyState(this);
         }
 
+        public void Remove()
+        {
+            _lifecycleHooks.OnRemoved(this);
+        }
+
         public override string InnerHTML
         {
             get
@@ -82,6 +96,8 @@ namespace Composite
         {
             get
             {
+                _lifecycleHooks.OnRendered(this);
+
                 string classAttr = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
                 string styleAttr = RenderStyle();
 
