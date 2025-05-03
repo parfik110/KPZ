@@ -5,54 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B07E379D-D267-4D47-9FC3-35F12522633C}|ConsoleApp_Task5\\ConsoleApp_Task5.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\consoleapp_task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B07E379D-D267-4D47-9FC3-35F12522633C}|ConsoleApp_Task5\\ConsoleApp_Task5.csproj|solutionrelative:consoleapp_task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\inodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\inodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\tagclosetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\tagclosetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\networkimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\networkimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightimagenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightimagenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\filesystemimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\filesystemimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,171 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepthFirstIterator.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DepthFirstIterator.cs",
-              "RelativeDocumentMoniker": "Composite\\DepthFirstIterator.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DepthFirstIterator.cs",
-              "RelativeToolTip": "Composite\\DepthFirstIterator.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:06:20.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INodeIterator.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\INodeIterator.cs",
-              "RelativeDocumentMoniker": "Composite\\INodeIterator.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\INodeIterator.cs",
-              "RelativeToolTip": "Composite\\INodeIterator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:06:06.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TagCloseType.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\TagCloseType.cs",
-              "RelativeDocumentMoniker": "Composite\\TagCloseType.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\TagCloseType.cs",
-              "RelativeToolTip": "Composite\\TagCloseType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:41.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NetworkImageLoadingStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\NetworkImageLoadingStrategy.cs",
-              "RelativeDocumentMoniker": "Composite\\NetworkImageLoadingStrategy.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\NetworkImageLoadingStrategy.cs",
-              "RelativeToolTip": "Composite\\NetworkImageLoadingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:36.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp_Task5\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs",
-              "RelativeToolTip": "ConsoleApp_Task5\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwCcAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp_Task5\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T12:19:53.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LightTextNode.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightTextNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightTextNode.cs",
-              "RelativeToolTip": "Composite\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:32.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LightNode.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightNode.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightNode.cs",
-              "RelativeToolTip": "Composite\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:28.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LightImageNode.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightImageNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightImageNode.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightImageNode.cs",
-              "RelativeToolTip": "Composite\\LightImageNode.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:24.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
-              "RelativeToolTip": "Composite\\LightElementNode.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA1wEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:15.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IImageLoadingStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\IImageLoadingStrategy.cs",
-              "RelativeDocumentMoniker": "Composite\\IImageLoadingStrategy.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\IImageLoadingStrategy.cs",
-              "RelativeToolTip": "Composite\\IImageLoadingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:59:56.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FileSystemImageLoadingStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\FileSystemImageLoadingStrategy.cs",
-              "RelativeDocumentMoniker": "Composite\\FileSystemImageLoadingStrategy.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\FileSystemImageLoadingStrategy.cs",
-              "RelativeToolTip": "Composite\\FileSystemImageLoadingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:59:52.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EventManager.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\EventManager.cs",
-              "RelativeDocumentMoniker": "Composite\\EventManager.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\EventManager.cs",
-              "RelativeToolTip": "Composite\\EventManager.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:59:48.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DisplayType.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DisplayType.cs",
-              "RelativeDocumentMoniker": "Composite\\DisplayType.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DisplayType.cs",
-              "RelativeToolTip": "Composite\\DisplayType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:59:16.875Z",
               "EditorCaption": ""
             }
           ]

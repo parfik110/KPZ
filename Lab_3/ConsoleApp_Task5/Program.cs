@@ -40,6 +40,22 @@ namespace ConsoleApp_Task5
             }
 
 
+            Console.WriteLine("\n=== Command Pattern Demo ===\n");
+            var cmdManager = new CommandManager();
+
+            var div = new LightElementNode("div", DisplayType.Block, TagCloseType.Pair);
+
+            cmdManager.ExecuteCommand(new AddClassCommand(div, "red"));
+            cmdManager.ExecuteCommand(new AddClassCommand(div, "bold"));
+            Console.WriteLine(div.OuterHTML);  // <div class="red bold"></div>
+
+            cmdManager.Undo(); // remove bold
+            Console.WriteLine(div.OuterHTML);  // <div class="red"></div>
+
+            cmdManager.Redo(); // add bold again
+            Console.WriteLine(div.OuterHTML);  // <div class="red bold"></div>
+
+
         }
     }
 }
