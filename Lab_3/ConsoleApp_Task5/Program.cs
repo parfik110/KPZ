@@ -67,6 +67,17 @@ namespace ConsoleApp_Task5
             section.SetState(new VisibleState());
             Console.WriteLine(section.OuterHTML);  // display: block
 
+
+
+            Console.WriteLine("\n=== Template Method (Lifecycle) Demo ===\n");
+
+            var header = new LightElementNode("header", DisplayType.Block, TagCloseType.Pair);
+            header.SetLifecycleHooks(new DefaultLifecycleHooks());
+
+            header.AddChild(new LightTextNode("Welcome to the site!"));
+            Console.WriteLine(header.OuterHTML);
+            header.Remove();
+
         }
     }
 }

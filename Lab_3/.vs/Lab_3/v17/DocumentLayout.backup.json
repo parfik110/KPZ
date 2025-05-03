@@ -11,20 +11,12 @@
       "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\collapsedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\collapsedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\defaultlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\defaultlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\hiddenstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\hiddenstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\visiblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\visiblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\ielementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\ielementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|c:\\users\\admin\\desktop\\university\\2\\kpz\\lab_3\\composite\\lightlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE58DBCC-14A4-44D2-82DD-5716FC16E0CC}|Composite\\Composite.csproj|solutionrelative:composite\\lightlifecyclehooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,61 +40,35 @@
               "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightElementNode.cs",
               "RelativeToolTip": "Composite\\LightElementNode.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAA9wF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA5wG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:28:29.347Z",
+              "WhenOpened": "2025-05-03T13:33:21.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CollapsedState.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\CollapsedState.cs",
-              "RelativeDocumentMoniker": "Composite\\CollapsedState.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\CollapsedState.cs",
-              "RelativeToolTip": "Composite\\CollapsedState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Title": "DefaultLifecycleHooks.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DefaultLifecycleHooks.cs",
+              "RelativeDocumentMoniker": "Composite\\DefaultLifecycleHooks.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\DefaultLifecycleHooks.cs",
+              "RelativeToolTip": "Composite\\DefaultLifecycleHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:28:10.256Z",
+              "WhenOpened": "2025-05-03T13:33:02.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HiddenState.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\HiddenState.cs",
-              "RelativeDocumentMoniker": "Composite\\HiddenState.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\HiddenState.cs",
-              "RelativeToolTip": "Composite\\HiddenState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "LightLifecycleHooks.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightLifecycleHooks.cs",
+              "RelativeDocumentMoniker": "Composite\\LightLifecycleHooks.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\LightLifecycleHooks.cs",
+              "RelativeToolTip": "Composite\\LightLifecycleHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:27:56.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VisibleState.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\VisibleState.cs",
-              "RelativeDocumentMoniker": "Composite\\VisibleState.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\VisibleState.cs",
-              "RelativeToolTip": "Composite\\VisibleState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:27:40.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IElementState.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\IElementState.cs",
-              "RelativeDocumentMoniker": "Composite\\IElementState.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\Composite\\IElementState.cs",
-              "RelativeToolTip": "Composite\\IElementState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:25:26.029Z",
+              "WhenOpened": "2025-05-03T13:32:46.77Z",
               "EditorCaption": ""
             },
             {
@@ -113,7 +79,7 @@
               "RelativeDocumentMoniker": "ConsoleApp_Task5\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\University\\2\\KPZ\\Lab_3\\ConsoleApp_Task5\\Program.cs",
               "RelativeToolTip": "ConsoleApp_Task5\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T12:19:53.974Z",
               "EditorCaption": ""
